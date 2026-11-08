@@ -1,0 +1,22 @@
+# zentrale Konfigurationsdatei von Jekyll
+
+# Seitentitel: globaler Titel der Website
+title: MINT
+
+# Seitenbeschreibung: kurze Beschreibung der Seite
+description: Skripts und Übungen für Informatik und Mathematik
+
+# Theme aus GitHub laden
+remote_theme: just-the-docs/just-the-docs
+
+# Suchfeld aktivieren
+search_enabled: true
+
+# MathJax einbinden
+math: mathjax
+
+# Farbschema
+color_scheme: dark
+
+# Fußzeilentext
+footer_content: "Luiz Feitosa"
