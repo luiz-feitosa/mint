@@ -1,4 +1,3 @@
-# YAML-Frontmatter
 ---
 layout: default
 title: "Start"
