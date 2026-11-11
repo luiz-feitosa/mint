@@ -18,5 +18,13 @@ math: mathjax
 # Farbschema
 color_scheme: dark
 
+# globales Standar-Layout für alle Seiten
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
 # Fußzeilentext
 footer_content: "Luiz Feitosa"
